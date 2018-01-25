@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">この紋所が目に入らぬか!!</string>
+
+    <!---->
+    <string name="banner_ad_unit_id">ca-app-pub-1882812461462801/9867065590</string>
+    <!---->
+    <!-- Test
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    -->
+
+    <string name="startInfo">印籠を取り出した後、相手に向かって画面を突き出すように動かすと音楽が流れます。</string>
+    <string name="captionStart">印籠を取り出す！</string>
+
+    <string name="menuSerif">セリフを確認</string>
+
+    <string name="serif1">「この紋所が目に入らぬか!!」</string>
+    <string name="serif2">「こちらにおわす御方を、どなたと心得る。恐れ多くも先の副将軍、水戸光圀公にあらせられるぞ。」</string>
+    <string name="serif3">「ご老公の御前である。一同、頭が高い！控えおろう！」</string>
+</resources>
