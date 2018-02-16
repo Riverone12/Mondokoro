@@ -19,6 +19,7 @@ import biz.riverone.mondokoro.R
  * Copyright (C) 2018 J.Kawahara
  * 2018.1.24 J.Kawahara 新規作成
  * 2018.1.25 J.Kawahara デバイスのコントローラで音量を調節できるようにした
+ * 2018.2.16 J.Kawahara ver.1.04 丸型アイコンを更新
  */
 class InrouActivity : AppCompatActivity(), SensorEventListener {
 
